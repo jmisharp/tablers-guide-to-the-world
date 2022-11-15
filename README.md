@@ -1,5 +1,7 @@
 # Tabler's Guide to the World
 
+![rti-world-map](https://user-images.githubusercontent.com/15049031/202049308-7fcfdc8f-0142-4436-9e61-b1ade3ccf75c.jpg)
+
 * [Charity Projects](charity-projects)
 * [Family Members](family-members)
 * [International Clubs](international-clubs)
